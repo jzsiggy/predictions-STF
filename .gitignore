@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+catboost_info
+legal_env
+
+data/monocraticas
